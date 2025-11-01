@@ -1,6 +1,6 @@
-conda create -n youtube python=3.11 -y
+conda create -n MLOps python=3.11 -y
 
-conda activate youtube
+conda activate MLOps
 
 pip install -r requirements.txt
 
